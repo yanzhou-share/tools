@@ -1,4 +1,16 @@
 /**
+*Tools js
+*
+*API
+*[1,2,3,3,4,4,5].remove(3);
+*Tools.loadCssFile(path);
+*Tools.loadJsFile(path);
+*Tools.getCharLength(str, 10);
+*Tools.replaceHtmlTag(str);
+*Tools.setCookie();
+*Tools.getCookie();
+*Tools.deleteCookie();
+*
 *
 *by shine
 *20150312
